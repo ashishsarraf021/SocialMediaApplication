@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build":"npm i",
+    "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server/index.js"
   },
@@ -27,5 +27,8 @@
     "multer": "^1.4.4",
     "multer-gridfs-storage": "^5.0.2",
     "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
