@@ -23,8 +23,9 @@ import {
 import { useDispatch, useSelector } from "react-redux";
 import { setMode, setLogout } from "state";
 import { useNavigate } from "react-router-dom";
-import FlexBetween from "/Users/ashishsarraf021/Desktop/social/client/src/components/FlexBeetween.jsx";
+// import FlexBetween from "/Users/ashishsarraf021/Desktop/social/client/src/components/FlexBeetween.jsx";
 // import FlexBetween from "/Users/ashishsarraf021/Desktop/social/client/src/components/FlexBeetween"
+import FlexBetween from "../../components/FlexBeetween";
 
 const Navbar = () => {
   const [isMobileMenuToggled, setIsMobileMenuToggled] = useState(false);
