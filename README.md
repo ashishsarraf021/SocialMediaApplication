@@ -2,7 +2,7 @@
 
 Welcome to the Social Media Web Application project!
 
-![Live Demo](https://ashishsarraf-sociopedia.netlify.app/) || [Source Code](https://github.com/ashishsarraf021/SocialMediaApplication)
+[Live Demo](https://ashishsarraf-sociopedia.netlify.app/) || [Source Code](https://github.com/ashishsarraf021/SocialMediaApplication)
 
 ## About the Project
 
