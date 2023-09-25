@@ -1,2 +1,1 @@
-# socialMediaApplication1
 # SocialMediaApplication
